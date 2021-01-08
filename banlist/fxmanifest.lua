@@ -2,7 +2,7 @@ fx_version 'bodacious'
 
 game 'gta5'
 
-author 'Ghast#4251'
+author 'Deivik#4251'
 
 description 'Please do not sell this resource.'
 
