@@ -77,3 +77,4 @@ end
 MySQL.ready(function()
   Banlist()
 end)
+-- Created by Deivik
