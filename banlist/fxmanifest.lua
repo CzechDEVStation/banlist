@@ -11,3 +11,5 @@ download 'TODO'
 server_only 'yes'
 
 server_script 'server/main.lua'
+
+depency 'mysql-async'
