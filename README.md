@@ -6,3 +6,5 @@ Instalace:
   3. Startnete resource v server.cfg
 
 Discord: https://discord.gg/nwYW7Betjg
+
+Dokumentace: https://czechdevstation.gitbook.io
