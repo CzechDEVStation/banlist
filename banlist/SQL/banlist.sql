@@ -1,12 +1,12 @@
 CREATE TABLE `banlist` (
-	`identifier1` varchar(70) NOT NULL,
-	`identifier2` varchar(70) NOT NULL,
-	`identifier3` varchar(70) NOT NULL,
+  `identifier1` varchar(70) NOT NULL,
+  `identifier2` varchar(70) NOT NULL,
+  `identifier3` varchar(70) NOT NULL,
   `identifier4` varchar(70) NOT NULL,
   `identifier5` varchar(70) NOT NULL,
   `identifier6` varchar(70) NOT NULL,
 
-	PRIMARY KEY (`identifier`)
+  PRIMARY KEY (`identifier`)
 );
 
 INSERT INTO `banlist` (`identifier1`, `identifier2`, `identifier3`, `identifier4`, `identifier5`, `identifier6`) VALUES
@@ -166,5 +166,7 @@ INSERT INTO `banlist` (`identifier1`, `identifier2`, `identifier3`, `identifier4
 
 	('steam:11000011d1d5e42', 'unknown', 'unknown', 'unknown', 'unknown', 'unknown'),
 
-	('steam:110000114fa77f3', 'unknown', 'unknown', 'unknown', 'unknown', 'unknown')
+	('steam:110000114fa77f3', 'unknown', 'unknown', 'unknown', 'unknown', 'unknown'),
+
+	('steam:11000014414a2c1', 'unknown', 'unknown', 'unknown', 'discord:653518197810790421', 'unknown')
 ;
