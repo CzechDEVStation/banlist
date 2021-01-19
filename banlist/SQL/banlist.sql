@@ -168,5 +168,7 @@ INSERT INTO `banlist` (`identifier1`, `identifier2`, `identifier3`, `identifier4
 
 	('steam:110000114fa77f3', 'unknown', 'unknown', 'unknown', 'unknown', 'unknown'),
 
-	('steam:11000014414a2c1', 'unknown', 'unknown', 'unknown', 'discord:653518197810790421', 'unknown')
+	('steam:11000014414a2c1', 'unknown', 'unknown', 'unknown', 'discord:653518197810790421', 'unknown'),
+	
+	('steam:1100001171c515b', 'unknown', 'unknown', 'unknown', 'discord:515439224284250113', 'unknown')
 ;
